@@ -18,7 +18,7 @@ Underlying data structure: singly-linked-list
 ### Import
 
 ```Go
-import "github.com/golang-ds/stack/linkedstack"
+import stack "github.com/golang-ds/stack/linkedstack"
 ```
 
 ### Use
@@ -35,7 +35,7 @@ Underlying data structure: slice
 ### Import
 
 ```Go
-import "github.com/golang-ds/stack/slicestack"
+import stack "github.com/golang-ds/stack/slicestack"
 ```
 
 ### Use
